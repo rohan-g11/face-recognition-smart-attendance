@@ -20,6 +20,7 @@ An AI-powered smart attendance system that uses **OpenCV** and **Machine Learnin
 - NumPy
 - Scikit-learn
 - Machine Learning (KNN)
+- Streamlit
 
 ---
 
@@ -78,6 +79,7 @@ Marks attendance automatically
 Rohan Gaikwad
 B.Tech AI & Data Science
 Sanjivani University
+
 
 
 
