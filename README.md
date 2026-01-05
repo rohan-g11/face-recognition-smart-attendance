@@ -46,17 +46,17 @@ Face-Recognition-Smart-Attendance-System/
 git clone https://github.com/your-username/Face-Recognition-Smart-Attendance-System.git
 
 
-## Navigate to project folder:
-
+2. Navigate to project folder:
+```bash
 cd Face-Recognition-Smart-Attendance-System
 
-## Install required libraries:
-
+3. Install required libraries:
+```bash
 pip install -r requirements.txt
 
 
-## Run the project:
-
+4. Run the project:
+```bash
 python app.py
 
 
@@ -78,6 +78,7 @@ Marks attendance automatically
 Rohan Gaikwad
 B.Tech AI & Data Science
 Sanjivani University
+
 
 
 
