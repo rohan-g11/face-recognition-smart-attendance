@@ -72,13 +72,14 @@ Recognizes registered users
 Marks attendance automatically
 
 
----
+```
 
 👤 Author
 
 Rohan Gaikwad
 B.Tech AI & Data Science
 Sanjivani University
+
 
 
 
